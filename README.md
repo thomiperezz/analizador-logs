@@ -60,9 +60,7 @@
    
    Análisis de logs comprimidos rotados
 
-👤 Autor
-   Creado por Thomi como parte de mi formación en administración de sistemas y ciberseguridad.
+👤 Creado por Thomi como parte de mi formación en administración de sistemas y ciberseguridad.
    Contacto: perezthomas17@hotmail.com | https://www.linkedin.com/in/thperez17/
 
-📝 Notas
-   Este script es educativo y está diseñado para entornos controlados. Ajusta los umbrales según las necesidades de tu servidor.
+📝 Este script es educativo y está diseñado para entornos controlados. Ajusta los umbrales según las necesidades de tu servidor.
