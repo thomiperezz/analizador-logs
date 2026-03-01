@@ -21,9 +21,9 @@
 ## ⚙️ Instalación
 
    Clona este repositorio:
-      ```bash
-      git clone https://github.com/thomiperezz/analizador-logs.git
-      cd analizador-logs
+   bash
+   git clone https://github.com/thomiperezz/analizador-logs.git
+   cd analizador-logs
    
    Dale permisos de ejecución al script:
    
